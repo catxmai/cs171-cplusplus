@@ -1,0 +1,8 @@
+﻿  IntStack.cpp
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\IntStack\IntStack.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\IntStack\IntStack.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\IntStack\IntStack.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\IntStack\IntStack.cpp(72,18): warning C4018: '>=': signed/unsigned mismatch
+  hw1.cpp
+  Generating Code...
+  IntStack.vcxproj -> C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\IntStack\Debug\IntStack.exe

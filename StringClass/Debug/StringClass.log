@@ -1,0 +1,13 @@
+﻿  hw2.cpp
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(132,25): error C2440: 'return': cannot convert from 'String' to 'String &'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(132,18): message : A non-const reference may only be bound to an lvalue
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(153,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\hw2.cpp(43,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\hw2.cpp(44,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  String.cpp
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(132,25): error C2440: 'return': cannot convert from 'String' to 'String &'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(132,18): message : A non-const reference may only be bound to an lvalue
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\StringClass\String.cpp(153,17): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...

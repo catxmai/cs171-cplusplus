@@ -1,0 +1,2 @@
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\x64\Debug\String.exe
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\x64\Debug\String.pdb

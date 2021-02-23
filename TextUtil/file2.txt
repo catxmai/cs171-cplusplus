@@ -1,0 +1,29 @@
+one one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+,twelve
+=fred
+this_has,internal:punctuation
+trailing,
+trailing8
+trailing>
+<angles>
+<<<more<>angles>>>
+!!!!
+<<d>>
+one one
+the
+the
+the
+the
+write the constructor
+

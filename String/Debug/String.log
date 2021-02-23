@@ -1,0 +1,46 @@
+﻿  hw2.cpp
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(11,35): error C2662: 'size_t String::length(void)': cannot convert 'this' pointer from 'const String' to 'String &'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(11,21): message : Conversion loses qualifiers
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(17,10): message : see declaration of 'String::length'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(12,36): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const String' (or there is no acceptable conversion)
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(12,36): message : could be 'built-in C++ operator<(const char [4], const char [4])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(12,36): message : while trying to match the argument list '(const String, const char [4])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(13,34): error C2678: binary '==': no operator found which takes a left-hand operand of type 'const String' (or there is no acceptable conversion)
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(13,34): message : could be 'built-in C++ operator==(const char [1], const char [1])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(13,34): message : while trying to match the argument list '(const String, const char [1])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(19,14): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(24,16): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(27,16): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(28,14): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(49,15): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(53,14): error C2676: binary '+=': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(55,28): error C2676: binary '<': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(56,63): error C2678: binary '<': no operator found which takes a left-hand operand of type 'String' (or there is no acceptable conversion)
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(56,63): message : could be 'built-in C++ operator<(const char [32], const char [32])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(56,63): message : while trying to match the argument list '(String, const char [32])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(57,32): error C2678: binary '<': no operator found which takes a left-hand operand of type 'String' (or there is no acceptable conversion)
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(57,32): message : could be 'built-in C++ operator<(const char [1], const char [1])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(57,32): message : while trying to match the argument list '(String, const char [1])'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(58,28): error C2676: binary '==': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(62,28): error C2676: binary '==': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(68,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(69,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(70,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(71,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(72,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(73,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(74,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(75,28): error C2039: 'substr': is not a member of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.h(6): message : see declaration of 'String'
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(42,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\hw2.cpp(43,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  String.cpp
+  Generating Code...
+C:\Users\Cat Mai\Documents\Clark_Univ\CS\CS171_C++\String\String.cpp(73): error C4716: 'String::append': must return a value
